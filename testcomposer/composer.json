@@ -1,0 +1,14 @@
+{
+    "name": "packet/anton",
+    "type": "project",
+    "license": "free",
+    "authors": [
+        {
+            "name": "anton",
+            "email": "kiverchuk.a@yandex.ru"
+        }
+    ],
+    "require": {
+        "vlucas/valitron": "^1.4"
+    }
+}
